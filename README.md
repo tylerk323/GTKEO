@@ -1,1 +1,69 @@
-# GTKEO
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            line-height: 1.6;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        .main-info {
+            background: #333;
+            color: #fff;
+            padding: 20px;
+        }
+        .main-info h1 {
+            margin: 0;
+        }
+        .hobbies, .lewis, .course, .job {
+            background: #e7e7e7;
+            padding: 15px;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header class="main-info">
+            <h1>Tyler Klappauf</h1>
+            <h1>Preferred Name: Tyler</h1>
+        </header>
+		
+		<img src="me.png" alt="picture of me">
+
+<a href="mailto:tylermklappauf@lewisu.edu">Contact me</a>
+		
+        <section class="lewis">
+			<h2>Year at Lewis: 4 years</h2>
+			<h2>Lewis major/minor/concentrations: currently majoring in aviation admin</h2>
+			<h2>Reasons for pursuing this degree: I am pursuing my degree mainly for the love I have towards aviation</h2>
+        </section>
+
+		<section class="course">
+            <h2>Reasons for taking this course</h2>
+            <p>to gain a better understanding of computer concepts</p>
+        </section>
+
+		<section class="job">
+            <p>Blackhawks security rep</p>
+			<p>player and administration security</p>
+        </section>		
+
+        <section class="hobbies">
+            <h2>Hobbies and Special Interests</h2>
+            <p>A hobby I take up a lot is fishing in lake michigan</p>
+        </section>
+
+        <section class="fun-fact">
+            <h2>Fun Fact</h2>
+            <p>I love to travel outside of the country</p>
+        </section>
+    </div>
+</body>
+</html>
